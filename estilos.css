@@ -1,0 +1,131 @@
+/*CONFIGURAÇÕES DO CABEÇALHO DO SITE*/
+body{
+	margin: auto;
+	width: 960px;
+	padding: 0px;
+	background: url(imagens/cabe.png) repeat-x;
+	background-color: rgb(118, 102, 122);
+}
+#iniciobut{
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 20px;
+	list-style-type: none;
+	float: left;
+	padding-right: 50px;
+	padding-top: 20px;
+}
+#catalogobut{
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 20px;
+	list-style-type: none;
+	float: left;
+	padding-right: 50px;
+	padding-top: 20px;
+}
+#sugestoesbut{
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 20px;
+	list-style-type: none;
+	padding-right: 50px;
+	padding-top: 20px;
+}
+/*FIM DAS CONFIGURAÇÕES DO CABEÇALHO*/
+
+/*PAGINA INICIAL*/
+#bemvindo {
+	color:rgb(32, 0, 61);
+	padding-top: 10px;
+}
+#imagentaca {
+	max-width: 700px;
+	max-height: 500px;
+	float: left;
+}
+#primeiroparagrafo {
+	color:rgb(0, 0, 0);
+	font-size: 40px;
+	padding-left: 350px;
+}
+#segundoparagrafo {
+	color:rgb(0, 0, 0);
+	font-size: 40px;
+
+}
+/*PAGINA DO catalogo.html*/
+/*estilos vinhos tintos*/
+#vinhotinto{ /*estilos imagem*/
+	max-width: 400px;
+	max-height: 350px;
+	float: left;
+}
+#titulocat1{ /*estilos do titulo*/
+	color:rgb(32, 0, 61);
+}
+#prfcat1{ /*estilos paragrafo*/
+	color:rgb(0, 0, 0);
+	font-size: 23px;
+	padding-left: 420px;
+}
+/*estilos vinhos roses*/
+#vinhorose{ /*estilos imagem*/
+	max-width: 400px;
+	max-height: 350px;
+	float: left;
+}
+#titulocat2{ /*estilos do titulo*/
+	color:rgb(32, 0, 61);
+}
+#prfcat2{ /*estilos paragrafo*/
+	color:rgb(0, 0, 0);
+	font-size: 23px;
+	padding-left: 420px;
+}
+/*estilos vinhos brancos*/
+#vinhobranco{ /*estilos imagem*/
+	max-width: 400px;
+	max-height: 350px;
+	float: left;
+}
+#titulocat3{ /*estilos do titulo*/
+	color:rgb(32, 0, 61);
+}
+#prfcat3{ /*estilos paragrafo*/
+	color:rgb(0, 0, 0);
+	font-size: 23px;
+	padding-left: 420px;
+}
+/*estilos vinhos espumante*/
+#espumante{ /*estilos imagem*/
+	max-width: 400px;
+	max-height: 350px;
+	float: left;
+}
+#titulocat4{ /*estilos do titulo*/
+	color:rgb(32, 0, 61);
+}
+#prfcat4{ /*estilos paragrafo*/
+	color:rgb(0, 0, 0);
+	font-size: 23px;
+	padding-left: 420px;
+}
+/*estilos vinhos fortificado*/
+#fortificado{ /*estilos imagem*/
+	max-width: 400px;
+	max-height: 350px;
+	float: left;
+}
+#titulocat5{ /*estilos do titulo*/
+	color:rgb(32, 0, 61);
+}
+#prfcat5{ /*estilos paragrafo*/
+	color:rgb(0, 0, 0);
+	font-size: 23px;
+	padding-left: 420px;
+}
+#imagenconstrucao{ /*imagem das paginas que estao em construção*/
+	max-width: 800px;
+	max-height: 700px;
+}
