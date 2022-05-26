@@ -129,3 +129,35 @@ body{
 	max-width: 800px;
 	max-height: 700px;
 }
+
+/*PAGINA DO sugestoes.html*/
+/*estilos do input do nome*/
+#nomeInput{ 
+	width: 150px;
+	padding-right: 200px;
+	position: 500px;
+}
+/*estilos do input do email*/
+#emailInput{ 
+	width: 150px;
+	padding-right: 200px;
+}
+/*estilos do input do comentário*/
+#sugestaoInput{ 
+	width: 150px;
+	padding-top: 100px;
+	padding-left: 200px;
+}
+#sugestaoLabel{ 
+	float: left;
+}
+#botaoEnviar{
+	color: rgb(255, 255, 255);
+	font-size: 30px;
+	border:1px solid rgb(0, 0, 0);
+	border-radius: 3px;
+	background: -webkit-linear-gradient(bottom, rgb(100,100,100), rgb(0,0,0));
+	padding: 5px 15px;
+	text-align: center;
+	position:static;
+}
